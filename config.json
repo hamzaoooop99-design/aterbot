@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "villainsmpknowledge.falixsrv.me",
+		"port": "20073",
 		"username": "Please enter the bot's username you want"
 	},
 	
